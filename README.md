@@ -2,7 +2,7 @@
 
 [Laravel Bootcamp](https://bootcamp.laravel.com/) is a guide that will walk us through building a modern Laravel application from scratch. To explore the framework, we'll build a microblogging platform called Chirper.
 
-In addition to Laravel, you will have the choice of building your front-end using Vue or React. We will also be digging into Inertia and Tailwind CSS.
+In addition to Laravel, you will build your front-end using Vue. We will also be digging into Inertia and Tailwind CSS.
 
 ## About this repo
 
